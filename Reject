@@ -1,0 +1,4 @@
+DOMAIN,yunmictl.green-motive.cn
+DOMAIN,yunmictl.unilifemedia.com
+AND,((SRC-IP-CIDR,10.0.0.142/32),(NETWORK,UDP))
+DOMAIN-SUFFIX,heytapmobi.com
